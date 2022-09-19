@@ -1,0 +1,23 @@
+# Compiled Class Files
+*.calss
+
+# Log Files
+*.log
+
+# Package Files
+*.jar
+*.zip
+*.rar
+*.tar.gz
+*.war
+*.nar
+*.ear
+
+# Data
+data
+*.csv
+*.txt
+
+# IntelliJ IDEA
+*.iml
+*.idea
