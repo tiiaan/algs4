@@ -38,15 +38,6 @@ javac-algs4 test.java
 java-algs4 test
 ```
 
-## Contents
-
-```shell
-.
-├── assignments
-├── data
-└── demos
-```
-
 ## Index
 
 * **FUNDAMENTALS**

@@ -21,3 +21,6 @@ data
 # IntelliJ IDEA
 *.iml
 *.idea
+
+# MacOS
+.DS_Store
